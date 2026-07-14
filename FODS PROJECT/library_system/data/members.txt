@@ -1,0 +1,5 @@
+M001|Kaushal Rimal|k.rimal@library.ac.uk|Librarian
+M002|Alice Thompson|alice.t@student.ac.uk|Student
+M003|Brian Osei|brian.o@student.ac.uk|Student
+M004|Chloe Nguyen|chloe.n@student.ac.uk|Student
+M005|David Silva|david.s@student.ac.uk|Student

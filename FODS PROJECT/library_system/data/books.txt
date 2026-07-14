@@ -1,0 +1,10 @@
+9780132350884|Clean Code|Robert C. Martin|Technology|Available
+9780134685991|Effective Java|Joshua Bloch|Technology|Borrowed
+9780061120084|To Kill a Mockingbird|Harper Lee|Fiction|Available
+9780141439518|Pride and Prejudice|Jane Austen|Fiction|Borrowed
+9780553380163|A Brief History of Time|Stephen Hawking|Science|Available
+9780345339683|The Fellowship of the Ring|J.R.R. Tolkien|Fantasy|Borrowed
+9780439023528|The Hunger Games|Suzanne Collins|Fiction|Borrowed
+9780262033848|Introduction to Algorithms|Cormen et al.|Technology|Available
+9780062316097|Sapiens|Yuval Noah Harari|Non-Fiction|Borrowed
+9780765326355|Mistborn|Brandon Sanderson|Fantasy|Available
